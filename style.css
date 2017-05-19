@@ -1,0 +1,151 @@
+
+
+body{
+  background-position: center 0px;
+  background: url("https://s3-ap-southeast-2.amazonaws.com/fivesenses.com.au/wp-content/uploads/2016/03/17185826/FlatWhite_2000.jpg");
+      background-size: cover;
+      background-attachment: fixed;
+  min-width: 960px;
+      display: block;
+  margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;}
+
+
+
+#header{
+      padding: 300px 0px;
+}
+
+h4{
+  margin: 0;
+}
+
+.centerText{  position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+color: whitesmoke;
+text-align: center;
+  margin: 0;
+  font-size: 3rem;
+  white-space: nowrap;
+  font-family: Bold,Arial;
+  background-color:rgba(0, 0, 0, 0.4);
+  padding: 10px;
+}
+
+.logo{
+  position: absolute;
+    top: 32px;
+    left: 47px;
+    color: whitesmoke;
+    font-size: 3rem;
+    font-family: "americantypewriter";
+
+}
+
+#box{
+  height:auto;
+  background-color:rgba(0, 0, 0, 0.4);
+  font-size:20px;
+  padding: 2em 3em 2em 3em;
+  flex: centerText;
+  margin: 10%;
+  text-align: center;
+  color: whitesmoke;
+  font-family: "americantypewriter";
+  line-height: 1.65;
+}
+
+#box1{
+  height: 420px;
+  background-color:rgba(0, 0, 0, 0.4);
+  font-size:20px;
+  padding: 2em 3em 2em 3em;
+  flex: centerText;
+  margin: 10%;
+  text-align: center;
+  color: whitesmoke;
+  font-family: "americantypewriter";
+  line-height: 1.65;
+}
+
+#boxContact{
+  height: 425px;
+  background-color:rgba(0, 0, 0, 0.4);
+  font-size:20px;
+  padding: 2em 3em 2em 3em;
+  flex: centerText;
+  margin: 10%;
+  text-align: center;
+  color: whitesmoke;
+  font-family: "americantypewriter";
+  line-height: 1.65;
+}
+
+
+
+.food{
+    display: block;
+     margin:15px 15px;
+     float: left;
+    width: 25%;
+    height: auto;
+  vertical-align: middle;
+    padding: 20px;
+
+
+}
+
+.food:hover {
+  transform: scale(1.2);
+
+}
+
+.contact{
+  color: whitesmoke;
+  font-size: 60px;
+  text-align: center;
+  font-family: "americantypewriter" !important;
+
+
+}
+.contactUs{
+  width: 29%;
+float: left;
+padding: 2%;
+line-height: 1.65;
+text-align: center;
+font-size: 20px;
+}
+
+#house, #envolope, #phone{
+  font-size: 60px;
+}
+
+
+.footer{
+  height: 142px;
+  background-color: turquoise;
+  color: black;
+  font-family: "americantypewriter";
+  padding: 2em 3em 2em 3em;
+  text-align: center;
+}
+
+
+.social{
+  color: black;
+  font-size: 40px;
+  text-align: center;
+}
+
+.fa:hover {
+    opacity: 0.6;
+}
+
+.fa:active{
+  opacity: 1;
+}
